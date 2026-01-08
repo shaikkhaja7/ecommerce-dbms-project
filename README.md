@@ -347,12 +347,3 @@ Function to count number of cart items
     insert into payment values(:new.payment_id,:new.payment_date,:new.payment_type,:new.customer_id,:new.cart_id,total);
     end;
 ```
-## Contributors
-Do check the contributors to follow some awesome projects
-
-- [@bhumijgupta](https://www.github.com/bhumijgupta)
-- [@YashMeh](https://www.github.com/YashMeh)
-- [@roney_b](https://www.github.com)
-
-> Feel free to fork the repository and contribute to this project.
-You made it till the end. Brofist :punch:!!!
